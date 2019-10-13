@@ -10,6 +10,8 @@ namespace Test_Project
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello git!");
+            Console.ReadLine();
             int x = 10;
             int y = 5;
         }
