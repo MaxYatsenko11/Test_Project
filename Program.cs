@@ -14,8 +14,14 @@ namespace Test_Project
             Console.ReadLine();
             int x = 10;
             int y = 5;
-            Console.WriteLine(x+y);
+            Console.WriteLine("x + y = {0}", x + y);
+            Console.WriteLine("x - y = {0}", x - y);
+            Console.WriteLine("x * y = {0}", x * y);
+            Console.WriteLine("x / y = {0}", x / y);
+
+
             Console.ReadKey();
+
         }
     }
 }
