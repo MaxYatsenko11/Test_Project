@@ -49,7 +49,6 @@ namespace DAL
             }
         }
 
-
         public static bool SerializeMessages(List<Message> list)
         {
             try
